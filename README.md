@@ -1,5 +1,5 @@
 # Credit-Roll-LB2
-Credit Roll for LB2 
+Credit Roll ported to LB2 by RoadieGamer, originally by Lioran Himself (don't bother Lioran about this not working) 
 
 Make sure you are on LB 2.07 and up, OBSWS 4.9.1 and your OBS is open before installing.
 
